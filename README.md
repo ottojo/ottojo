@@ -23,4 +23,5 @@
 * [A C++ library for using I2C in multithreaded applications](https://github.com/ottojo/I2C)
 * [C library for decoding weather data in public time broadcast](https://github.com/ottojo/MeteoDecode)
 * [PCB for using the AMG8833 thermal sensor with an ESP8266](https://github.com/ottojo/amg8833)
+* [PCB for convenient control of 12V LED strips with ESP8266](https://github.com/ottojo/wifiblink)
 * [My contributions to KiCad](https://gitlab.com/groups/kicad/-/merge_requests?scope=all&state=all&author_username=ottojo)
