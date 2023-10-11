@@ -25,3 +25,4 @@
 * [PCB for using the AMG8833 thermal sensor with an ESP8266](https://github.com/ottojo/amg8833)
 * [PCB for convenient control of 12V LED strips with ESP8266](https://github.com/ottojo/wifiblink)
 * [My contributions to KiCad](https://gitlab.com/groups/kicad/-/merge_requests?scope=all&state=all&author_username=ottojo)
+* [Zephyr driver for STM32F0 comparator peripheral](https://github.com/ottojo/zephyr_stm32_comp)
