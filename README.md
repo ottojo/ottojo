@@ -29,6 +29,7 @@
 * [Zephyr support for the OtterPill board](https://github.com/ottojo/otterpill_zephyr)
 
 ### List of Repos for University Courses at Ulm University
+Exercises and course summaries created during my studies of Communications and Computer Engineering at Ulm University.
 
 <details>
   <summary>Bachelor</summary>
